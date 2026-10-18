@@ -20,7 +20,7 @@
 - 🧩 I mostly work with **C# / .NET**: REST APIs, web apps, desktop apps and Telegram bots
 - 🎮 I've also built games and VR experiences with **Unity**
 - 🎓 Studied at **Tashkent University of Information Technologies**
-- 📫 Reach me at **sharifovmuhamadali571@gmail.com**
+- 📫 Reach me at **sharifovmuhammadali571@gmail.com**
 
 ### 🛠️ Tech stack
 
