@@ -1,46 +1,65 @@
+<div align="center">
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=512BD4&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Muhammadali+%F0%9F%91%8B;.NET+Software+Engineer;Building+APIs%2C+bots+and+apps+with+C%23" alt="Typing SVG" />
+</a>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Muhammadali👨‍💻&center=true&size=30">
-  </a>
- 
-  
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-</h1>
+<p>
+  <img src="https://img.shields.io/badge/Location-Tashkent%2C%20Uzbekistan-512BD4?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Work-Plum%20Technologies-512BD4?style=flat-square&logo=briefcase&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=SharifovDeveloper&style=flat-square&color=512BD4&label=Profile+views" />
+</p>
 
-<h5 align="center">
+</div>
 
-</h5>
-<br>
+---
+
+### 👨‍💻 About me
+
+- 💼 Software Engineer at **Plum Technologies**
+- 🧩 I mostly work with **C# / .NET**: REST APIs, web apps, desktop apps and Telegram bots
+- 🎮 I've also built games and VR experiences with **Unity**
+- 🎓 Studied at **Tashkent University of Information Technologies**
+- 📫 Reach me at **sharifovmuhamadali571@gmail.com**
+
+### 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,unity,git,github,visualstudio,vscode&perline=10" alt="Tech stack" />
+</p>
+
+`ASP.NET Core` · `Entity Framework Core` · `SQL Server` · `SignalR` · `Blazor` · `WPF` · `Telegram Bot API`
+
+### 🚀 Featured projects
+
 <p align="center">
-  Hi, I'm Muhammadali, .NET Software Engineer from Uzbekistan
-  <br>
-  <br>
-  🔬 I'm currently studying at Tashkent University of IT
-  <br>
-  
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: sharifovmuhamadali571@gmail.com">sharifovmuhamadali571@gmail.com</a>
+  <a href="https://github.com/SharifovDeveloper/MosqueFinder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharifovDeveloper&repo=MosqueFinder&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SharifovDeveloper/FlightAggregatorAPI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharifovDeveloper&repo=FlightAggregatorAPI&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SharifovDeveloper/CheckDrive.Api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharifovDeveloper&repo=CheckDrive.Api&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SharifovDeveloper/ChatHub-SignalR-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharifovDeveloper&repo=ChatHub-SignalR-&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
-<hr>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadaliUsa&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MuhammadaliUsa&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <br>
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SharifovDeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharifovDeveloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
-<hr>
-<h4 align="center">
-  <a href="https://github.com/MuhammadaliUsa?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
-</h4>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SharifovDeveloper&theme=tokyonight&hide_border=true" />
+</p>
+
+<div align="center">
+
+⭐ Thanks for visiting! Feel free to explore my [repositories](https://github.com/SharifovDeveloper?tab=repositories).
+
+</div>
