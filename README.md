@@ -33,8 +33,8 @@
 ### 🚀 Featured projects
 
 <p align="center">
-  <a href="https://github.com/SharifovDeveloper/MosqueFinder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharifovDeveloper&repo=MosqueFinder&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/SharifovDeveloper/MarketUz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharifovDeveloper&repo=MarketUz&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/SharifovDeveloper/FlightAggregatorAPI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SharifovDeveloper&repo=FlightAggregatorAPI&theme=tokyonight&hide_border=true" />
